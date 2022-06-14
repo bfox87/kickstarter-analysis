@@ -7,6 +7,10 @@ Findings:
 ---
 ![Category_Outcomes](C:/Users/Zachry/OneDrive - Zachrycorp/Documents/UT Bootcamp/Classwork/Crowdfunding Analysis/Category_Outcomes.png)
 ---
+![Outcomes_vs_Goals](https://github.com/bfox87/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+---
+
+
 *Donations for plays that were successfully funded had an average of around $93 per donation. Therefore, to reach Louise's goal of $12k for her play, she needs close to 130 donations.
 ---
 *Timing of the fundraising campaign is important. Late spring to early summer offer the greatest chance for success.
