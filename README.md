@@ -8,3 +8,6 @@ Findings:
 ![Category_Outcomes](C:/Users/Zachry/OneDrive - Zachrycorp/Documents/UT Bootcamp/Classwork/Crowdfunding Analysis/Category_Outcomes.png)
 ---
 ![Outcomes_vs_Goals](https://github.com/bfox87/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+
+
+![Outcomes_vs_Goals](https://github.com/bfox87/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
