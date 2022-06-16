@@ -7,7 +7,7 @@ An analysis of how play fundraising fared in relation to their launch dates and 
 
 ### Purpose:
 To analyze if certain characteristics of other play fundraising campaigns have an impact of play fundraising success. This enables Louise to determine how her campaign compares and gives her knowledge for any future fundraising campaigns.
-
+![Theater_Outcomes_vs_Launch](https://github.com/bfox87/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date:
