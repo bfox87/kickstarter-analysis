@@ -7,7 +7,7 @@ An analysis of how play fundraising fared in relation to their launch dates and 
 
 ### Purpose:
 To analyze if certain characteristics of other play fundraising campaigns have an impact of play fundraising success. This enables Louise to determine how her campaign compares and gives her knowledge for any future fundraising campaigns.
-![Outcomes_vs_Goals](https://github.com/bfox87/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date:
@@ -16,7 +16,7 @@ To analyze campaign outcomes by launch date, a pivot table and pivot line chart 
 
 ### Analysis of Outcomes Based on Goals:
 A line chart was used to analyze campaign outcomes by fundraising goal $ amounts. Some initial summary data was compiled first through the use of countifs functions. To begin, goal $ amount categories like (<1,000, 1,000-4,999) were created. Then countifs formulas enabled me to get a numerical breakdown of campaign outcomes by goal buckets and play subcategory. Finally, percentages of the total were used to compare the outcomes. This serves as a better metric than total number of successful/failed outcomes. The chart below shows this percentage breakdown between outcome categories as they track over fundraising goal $ amounts. The chart was also saved as picture and linked to the Resources folder in this repo to be included in the analysis.
-![Theater_Outcomes_vs_Launch](https://github.com/bfox87/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals](https://github.com/bfox87/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered:
 I encountered some difficulty putting the countifs formulas together as I was getting an error from Excel saying “There’s a problem with this formula.” I had forgotten to specify the $ goal criteria in brackets as I figured numbers didn’t need quotes like text did. A bit of “google-fu” solved the problem!
